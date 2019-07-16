@@ -5,3 +5,4 @@ These are the writeups from a group effort to complete the Googles 2019 Beginner
 ## Solved Challenges
 * [Coordinates](coordinates.md)
 * [Ad](ad.md)
+* [Satellite](satellite.md)
