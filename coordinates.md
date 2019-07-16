@@ -10,7 +10,7 @@
 ## Solution
 1. Download and unzip the file
 2. Run the following command on rand2
-> rabin2 -z rand2
+    > rabin2 -z rand2
 
 ```
 CTF{welcome_to_googlectf}
