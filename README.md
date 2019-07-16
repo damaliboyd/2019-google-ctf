@@ -4,4 +4,4 @@ These are the writeups for a groupe effort to complete the Googles 2019 Beginner
 
 ## Solved Challenges
 * [Coordinates](coordinates.md)
-* [ad](ad.md)
+* [Ad](ad.md)
