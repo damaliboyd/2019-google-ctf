@@ -1,4 +1,4 @@
-# CTF Name – Challenge Name
+# Enter Space-Time Coordinates
 
 * **Category:** easiest
 * **Points:** 1
