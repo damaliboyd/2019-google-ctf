@@ -1,6 +1,6 @@
 # Work Computer
 
-* **Category:** easy
+* **Category:** easy/sandbox
 * **Points:** 3
 
 ## Challenge
