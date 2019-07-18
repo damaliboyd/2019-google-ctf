@@ -1,6 +1,6 @@
 # Enter Space-Time Coordinates
 
-* **Category:** easiest
+* **Category:** easiest/misc
 * **Points:** 1
 
 ## Challenge
