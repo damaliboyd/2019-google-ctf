@@ -1,6 +1,6 @@
 # Home Computer Forensics
 
-* **Category:** easier
+* **Category:** easier/forensics
 * **Points:** 2
 
 ## Challenge
