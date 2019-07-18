@@ -1,6 +1,6 @@
 # CTF Name – Government Agriculture Network
 
-* **Category:** easier
+* **Category:** easier/web
 * **Points:** 2
 
 ## Challenge
