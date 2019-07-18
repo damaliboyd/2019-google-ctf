@@ -1,6 +1,6 @@
 # Sattelite
 
-* **Category:** easier
+* **Category:** easier/networking
 * **Points:** 2
 
 ## Challenge
