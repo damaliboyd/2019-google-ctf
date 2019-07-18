@@ -1,6 +1,6 @@
 # STOP GAN
 
-* **Category:** easiest
+* **Category:** easiest/pwn
 * **Points:** 1
 
 ## Challenge
