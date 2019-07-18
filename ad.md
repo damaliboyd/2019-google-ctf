@@ -1,6 +1,6 @@
 # Ad
 
-* **Category:** easier
+* **Category:** easier/ad
 * **Points:** 1
 
 ## Challenge
