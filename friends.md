@@ -1,7 +1,7 @@
 # CTF Name – Challenge Name
 
-* **Category:** category
-* **Points:** points
+* **Category:** easy/reversing
+* **Points:** 3
 
 ## Challenge
 
